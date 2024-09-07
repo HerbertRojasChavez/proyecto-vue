@@ -8,10 +8,10 @@
 </template>
 
 <script setup>
-    import SideBar from '../components/SideBar.vue';
+    import SideBar from '../components/Sidebar.vue';
 </script>
 
-<style>
+<style scoped>
 
 .conteiner {
     display: flex;
